@@ -1,6 +1,6 @@
 ## Hi there, I'm [Jack][github] <img src="https://raw.githubusercontent.com/Wzhang3912/Wzhang3912/main/assets/images/hand-waving.gif" width="30px"></h2>
 
-### 📈 About Me
+### 🙋‍♂️ About Me
 
 - 📚 I am a 3rd year data science undergrad at University of California, San Diego.
 - 🌱 **I’m currently learning**: Data Science and Data Engineering.
@@ -90,7 +90,12 @@
 
   <a href="https://plotly.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/plotly-2a3f5f.svg?style=for-the-badge&logo=plotly&logoColor=white"
-      alt="seaborn"/> 
+      alt="plotly"/> 
+  </a>
+
+  <a href="https://d3js.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/D3.js-F9A03C.svg?style=for-the-badge&logo=d3&logoColor=white"
+      alt="d3js"/> 
   </a>
 
 
@@ -126,7 +131,7 @@
 
 ---
 
-### ✅ GitHub Analytics
+### 📈 GitHub Analytics
 
 <a href="https://github.com/manojuppala">
   <img height="160em" src="https://github-readme-stats-git-master.manojuppala.vercel.app/api?username=Wzhang3912&&show_icons=true&theme=trasparent" />
