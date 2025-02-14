@@ -7,7 +7,7 @@
 - 💬 **Ask me about anything**: [Here][issue].
 - 📫 **How to reach me**: wzhang3912@gmail.com.
 - 👨‍💻 **I’m open for** an internship opportunity in data science, data analysts, data engineering, and software engineering ...
-- 📄 **My resume**: [resume][resume]
+- 📄 **My resume**: [resume][resume].
 
 ---
 
@@ -136,6 +136,7 @@
 ---
 
 Credits: [manoj uppala](https://github.com/manojuppala)
+
 Credits: [Rajarshi Kundu](https://github.com/Elanza-48)
 
 Last edited on: 02/13/2025
