@@ -8,6 +8,7 @@
 - 📫 **How to reach me**: wzhang3912@gmail.com / wez042@ucsd.edu.
 - 👨‍💻 **I’m open for** an internship opportunity in data science, data analysts, data engineering, and software engineering ...
 - 📄 **My resume**: [resume][resume].
+- 🌐 **My personal website**: [website][website]
 
 ---
 
@@ -150,3 +151,4 @@ Last edited on: 02/13/2025
 [github]: https://github.com/Wzhang3912
 [linkedin]: https://www.linkedin.com/in/wzhang3912/
 [issue]: https://github.com/Wzhang3912/Wzhang3912/issues
+[website]: https://wzhang3912.github.io
