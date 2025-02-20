@@ -147,7 +147,7 @@ Credits: [Rajarshi Kundu](https://github.com/Elanza-48)
 
 Last edited on: 02/13/2025
 
-[resume]: https://drive.google.com/file/d/1rjQBjOelr_H5eMBwyfF8Umnl68_gcPF0/view?usp=sharing
+[resume]: https://wzhang3912.github.io/assets/files/resume.pdf
 [github]: https://github.com/Wzhang3912
 [linkedin]: https://www.linkedin.com/in/wzhang3912/
 [issue]: https://github.com/Wzhang3912/Wzhang3912/issues
