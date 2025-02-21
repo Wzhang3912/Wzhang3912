@@ -134,20 +134,9 @@
 
 ### 📈 GitHub Analytics
 
-<div style="display: flex; align-items: left;">
-  <img 
-    height="160em" 
-    className="mb-2 embed-responsive"
-    src="https://github-readme-stats.vercel.app/api/?username=Wzhang3912&&show_icons=true&theme=trasparent&hide_rank=True" 
-    alt="github-stats"
-  />
-
-  <img 
-    height="160em" 
-    className="mb-2 embed-responsive"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wzhang3912&theme=trasparent&hide=html,scss" 
-    alt="githubstats"
-  />
+<a href="https://github.com/Wzhang3912">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=Wzhang3912&&show_icons=true&theme=trasparent&hide_rank=True" alt="github-stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wzhang3912&theme=trasparent&hide=html,scss" alt="githubstats"/>
 </div>
 
 
