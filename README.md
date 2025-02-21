@@ -134,10 +134,22 @@
 
 ### 📈 GitHub Analytics
 
-<a href="https://github.com/manojuppala">
-  <img height="160em" src="https://github-readme-stats-git-master.manojuppala.vercel.app/api?username=Wzhang3912&&show_icons=true&theme=trasparent" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wzhang3912&theme=trasparent" />
-</a>
+<p align="left">
+  <img 
+    height="160em" 
+    className="mb-2 embed-responsive"
+    src="https://github-readme-stats.vercel.app/api/?username=Wzhang3912&&show_icons=true&theme=trasparent&hide_rank=True" 
+    alt="github-stats"
+  />
+
+  <img 
+    height="160em" 
+    className="mb-2 embed-responsive"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wzhang3912&theme=trasparent&hide_progress=true" 
+    alt="githubstats"
+  />
+</p>
+
 
 ---
 
