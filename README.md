@@ -134,7 +134,7 @@
 
 ### 📈 GitHub Analytics
 
-<p align="left">
+<div style="display: flex; align-items: left;">
   <img 
     height="160em" 
     className="mb-2 embed-responsive"
@@ -145,10 +145,10 @@
   <img 
     height="160em" 
     className="mb-2 embed-responsive"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wzhang3912&theme=trasparent&hide_progress=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wzhang3912&theme=trasparent&hide_progress=true&layout=compact" 
     alt="githubstats"
   />
-</p>
+</div>
 
 
 ---
