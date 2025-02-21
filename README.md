@@ -145,7 +145,7 @@
   <img 
     height="160em" 
     className="mb-2 embed-responsive"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wzhang3912&theme=trasparent&hide_progress=true&layout=compact" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wzhang3912&theme=trasparent&hide=html,scss" 
     alt="githubstats"
   />
 </div>
