@@ -2,11 +2,11 @@
 
 ### 🙋‍♂️ About Me
 
-- 📚 I am a 4th-year data science undergrad at University of California, San Diego.
+- 📚 I am a 4th-year data science undergrad at University of California, San Diego, graduating in Spring 2026.
 - 🌱 **I’m currently learning**: Data Science and Data Engineering.
 - 💬 **Ask me about anything**: [Here][issue].
 - 📫 **How to reach me**: wzhang3912@gmail.com / wez042@ucsd.edu.
-- 👨‍💻 **I’m open to** an internship opportunity in data science, data analysts, data engineering, and software engineering ...
+- 👨‍💻 **I’m looking for** an internship or full-time opportunity in data science, data analysts, data engineering, and software engineering ...
 - 🌐 **My personal website**: [website][website]
 
 ---
