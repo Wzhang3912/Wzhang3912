@@ -8,6 +8,7 @@
 - 📫 **How to reach me**: wzhang3912@gmail.com / wez042@ucsd.edu.
 - 👨‍💻 **I’m looking for** an internship or full-time opportunity in data science, data analysts, data engineering, and software engineering ...
 - 🌐 **My personal website**: [website][website]
+- 📄 **My resume**: [resume][resume].
 
 ---
 
